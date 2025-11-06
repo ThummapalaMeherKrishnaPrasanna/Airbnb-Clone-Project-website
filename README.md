@@ -16,3 +16,7 @@
 * Tablets
 * Desktop screens
 * Uses CSS **flexbox + media queries** for layout adjustments.
+
+# Output : 
+
+
