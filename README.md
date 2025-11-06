@@ -10,10 +10,9 @@
 *  Reusable components  
 *  Mobile-friendly layout
 
-* The site is optimized for:
+# The site is optimized for:
 
-  * Mobile devices
-  * Tablets
-  * Desktop screens
-
-  * Uses CSS **flexbox + media queries** for layout adjustments.
+* Mobile devices
+* Tablets
+* Desktop screens
+* Uses CSS **flexbox + media queries** for layout adjustments.
